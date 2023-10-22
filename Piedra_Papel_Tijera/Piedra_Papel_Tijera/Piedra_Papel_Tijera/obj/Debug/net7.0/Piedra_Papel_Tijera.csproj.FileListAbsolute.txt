@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\obj\Debug\net7.0\Piedra_Papel_Tijera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\obj\Debug\net7.0\Piedra_Papel_Tijera.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\obj\Debug\net7.0\Piedra_Papel_Tijera.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\obj\Debug\net7.0\Piedra_Papel_Tijera.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\bin\Debug\net7.0\Piedra_Papel_Tijera.exe
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\bin\Debug\net7.0\Piedra_Papel_Tijera.deps.json
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\bin\Debug\net7.0\Piedra_Papel_Tijera.runtimeconfig.json
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\bin\Debug\net7.0\Piedra_Papel_Tijera.dll
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\bin\Debug\net7.0\Piedra_Papel_Tijera.pdb
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\obj\Debug\net7.0\Piedra_Papel_Tijera.dll
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\obj\Debug\net7.0\refint\Piedra_Papel_Tijera.dll
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\obj\Debug\net7.0\Piedra_Papel_Tijera.pdb
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\obj\Debug\net7.0\Piedra_Papel_Tijera.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Piedra_Papel_Tijera\Piedra_Papel_Tijera\Piedra_Papel_Tijera\obj\Debug\net7.0\ref\Piedra_Papel_Tijera.dll
